@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn-es",
+                "name": "CNN Spanish"
+            },
+            "author": "CNN",
+            "title": "Video de cámara corporal muestra a ocho policías disparando a Jayland Walker",
+            "description": "Las autoridades publicaron imágenes de la cámara corporal de la noche en que los policías de Akron, Ohio, le dispararon fatalmente a Jayland Walker. | CNN",
+            "url": "https://cnnespanol.cnn.com/video/video-de-camara-corporal-muestra-a-ocho-policias-disparando-a-jayland-walker/",
+            "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2022/07/thumb_135466.jpeg?quality=100&strip=info",
+            "publishedAt": "2022-07-04T09:13:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Polls find high amount of White men think US government is rigged - CNN Video",
+            "description": "The vast majority of Americans across party lines are unhappy with the state of the US. A new set of polling finds conservatives are among the largest group who believe government is rigged.",
+            "url": "http://us.cnn.com/videos/politics/2022/07/01/poll-republican-party-believe-election-government-rigged-ip-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220629142448-us-capitol-building-file-062822-super-tease.jpg",
+            "publishedAt": "2022-07-04T05:07:23.7434585Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news-br",
+                "name": "Google News (Brasil)"
+            },
+            "author": null,
+            "title": "Camila Farani | CNN OLHARES BRASILEIROS - 03/07/2022 - CNN Brasil",
+            "description": "<ol><li>Camila Farani | CNN OLHARES BRASILEIROS - 03/07/2022  CNN Brasil\r\n</li><li>[AO VIVO] JORNAL DA BAND - 04/07/2022  Band Jornalismo\r\n</li><li>AO VIVO: CNN NOVO DIA - 04/07/2022  CNN Brasil\r\n</li><li>Revista CBN - 03/07/2022  Rádio CBN\r\n</li><li>AO VIVO:…",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9a1FPdml1ZHZPd0nSAQA?oc=5",
+            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/143/1200x712/1634946_1.jpg",
+            "publishedAt": "2022-07-04T00:49:22+00:00",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        }
+    ]
+}
